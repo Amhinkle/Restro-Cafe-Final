@@ -8,9 +8,9 @@ Forum App, with a frontend built in React & Redux and a backend built in Django 
 
 **This App uses a Heroku free plan, so I am afraid that it takes time to load the pages.**
 
-Check out [FRONTEND LIVE DEMO](https://frontend-rupesh.herokuapp.com/) here!!
+Check out [FRONTEND LIVE DEMO](https://restro-cafe-frontend-alexis.herokuapp.com/) here!!
 
-Check out [API LIVE DEMO](https://backend-rupesh.herokuapp.com/) here!!
+Check out [API LIVE DEMO](https://restro-cafe-backend-alexis.herokuapp.com/) here!!
 
 ## Tech used
 
