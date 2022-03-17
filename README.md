@@ -24,7 +24,7 @@ Check out [API LIVE DEMO](https://restro-cafe-backend-alexis.herokuapp.com/) her
 1. Git Clone
 
 ```
-git clone https://github.com/rupesh6565/Food-Valley.git
+git clone https://github.com/Amhinkle/Restro-Cafe-Final.git
 ```
 
 2. Backend setting
