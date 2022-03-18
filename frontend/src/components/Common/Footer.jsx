@@ -25,10 +25,10 @@ const Footer = ({ price, showCartList, setShowCartList }) => {
         <p>we have a new offer every day for 365 days</p>
         <span className="contact">Contact</span> <br />
         <span className="email">
-          E-mail : quickfood@Hungercaptian.com | Hotline: +1 131 138 138
+          E-mail : quickfood@Restrocafe.com | Hotline: +1 131 138 138
         </span>
         <div className="copyright">
-          <p>DESIGN BY HUNGER CAPTIAN - © 2022. ALL RIGHTS RESERVED.</p>
+          <p>DESIGN BY RESTRO CAFE - © 2022. ALL RIGHTS RESERVED.</p>
         </div>
       </section>
     </>
